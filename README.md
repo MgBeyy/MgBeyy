@@ -47,8 +47,8 @@ Here are some of my noteworthy projects:
 -->
 ## 📈 GitHub Stats
 
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Zaid's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MgBeyy&show_icons=true&theme=tokyonight)  
+![Zaid's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=MgBeyy&theme=tokyonight)
 
 ---
 
