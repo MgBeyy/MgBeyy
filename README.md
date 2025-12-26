@@ -59,8 +59,6 @@ Here are some of my noteworthy projects:
 <!--
 - 🌐 Portfolio / Blog: [your-website.com](https://your-website.com)
 -->
-> “Strive not to be a success, but rather to be of value.” — Albert Einstein  
-
 ---
 
 *This README is automatically generated and can be updated dynamically as I grow and evolve.*  
